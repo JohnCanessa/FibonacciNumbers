@@ -9,7 +9,7 @@ Decided to experiment and here it is.
 If interested in my comments, please visit the following
 post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2022/02/10/fibonacci-numbers-in-c/
 
 Remember that one of the best ways to learn and refresh 
 your knowledge is to read and experiment, and repeat.
